@@ -20,7 +20,7 @@ En este primer avance del proyecto se muestra lo que es la simulacion de la seri
 
 Gracias al curso logre entender mejor las actividades que realizamos a lo largo de la unidad, los conceptos vistos me ayudaran a la realizacion de mi proyecto navideño ya que todo el codigo principal esta en este lenguaje.
 
-##Coevaluación
+## Coevaluación
 
 Para el proyecto intregral trabaje con mi compañero Gustavo Mendez el cual es bueno para entender el codigo con el cual se estuvo trabajando, tambien es bueno para hacer las conexiones de los componentes. La realizacion del trabajo fue rapida y eficaz. Sus puntos de mejora serian que por llevar todo a la carrera la conexion de un boton no nos salia hasta que lo coloque de la manera correcta, siento que si no tratara hacer las cosas tan rapido nos hubiera salido a la primera. Dentro de lo que cabe hicimos buen equipo y logramos terminar un buen trabajo.
 
